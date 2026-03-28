@@ -1,0 +1,1 @@
+Moja pierwsza gra Snake napisana w Javie. Podstawy zrobione grupowo w III klasie liceum, dopracowałem sam. Sugerowane środowisko: IntelliJ. Sugerowana wersja Javy - między 8 a 10 (gra korzysta z biblioteki JavaFX).
